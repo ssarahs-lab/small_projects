@@ -24,7 +24,7 @@ To use:
 
       
 
-3. Copy/paste the code into the text box
+3. Copy/paste the code (from here) [https://github.com/ssarahs-lab/small_projects/blob/main/australianIncomeTax.js] into the text box
 
 4. To use in the Sheet, go back to your worksheet and in the cell, type 
 
