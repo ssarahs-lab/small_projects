@@ -1,15 +1,17 @@
-function monthlyRepayments(loanAmount){
+function monthlyRepayments(loanAmount, R){
 
-    let annualRate = 0.06
+    
     let loanDuration = 5
     let paymentsPerYear = 12
 
     let monthlyRate
-    let numberOfRepayments = loanDuration * paymentsPerYear
+    let n = loanDuration * paymentsPerYear
 
     monthlyRate = annualRate/paymentsPerYear
+    onePlusRate = 1+monthlyRate
 
-    repaymentAmount = loanAmount/(((1+monthlyRate)^numberOfRepayments)-1) / (monthlyRate*(1+monthlyRate)^numberOfRepayments)
+    
+    repaymentAmount = (loanAmount*R) / [1 - (1 + R)^(-n)]
 
 return repaymentAmount
 
