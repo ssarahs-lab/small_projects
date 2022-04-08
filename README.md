@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# small_projects
-=======
+
+
 **Small projects**
 
 This is just a repository of custom functions to make things easier in Google Sheets 
@@ -32,4 +31,4 @@ To use:
 > = australianIncomeTax( )
 
 and use as you would for any other SUM, AVERAGE formulas, etc
->>>>>>> 7b13392 (adding Aus tax income function)
+
