@@ -6,7 +6,7 @@ You are welcome to email me requests and I will add them here when I have time :
 
 Instructions on how to use the code below.
 
-## Australian Income Tax Calculator ( 2021-2022 Resident Tax Rates)**
+## Australian Income Tax Calculator ( 2021-2022 Resident Tax Rates)
 
 Calculate Australian Income Tax on any number (for use in AppScripts in Google Sheets)
 
